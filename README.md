@@ -1,2 +1,2 @@
 # moon_library
-library for moon
+library for [Moon](https://github.com/JobberRT/moon)
